@@ -1,0 +1,28 @@
+name: my3friends
+favicon: null
+layout_spectrum: 0.8622761170845479
+typography_spectrum: 0.9892113304231316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.45511288894340396
+  lightness: 0.8809758520219475
+  saturation: 0.9455525281373411
+  rhythmicContrast: 0.3534793187864125
+purpose: []
